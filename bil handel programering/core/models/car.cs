@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace bil_handel_programering.core.models
 {
-    internal class bil
+    internal class car
     {
     }
 }
