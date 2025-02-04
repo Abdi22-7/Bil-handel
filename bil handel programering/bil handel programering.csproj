@@ -9,6 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="core\models\" />
+    <Folder Include="core\interfaces\" />
+    <Folder Include="core\helpers\" />
     <Folder Include="service\" />
   </ItemGroup>
 
