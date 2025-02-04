@@ -11,5 +11,10 @@ namespace bil_handel_programering.core.models
         public string carname { get; set; }
         public string carmodel { get; set; }
         public string cartype { get; set; }
+
+        public car()
+        {
+            
+        }
     }
 }
