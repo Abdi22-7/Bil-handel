@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace bil_handel_programering.core.models
 {
-    internal class car
+    public class car
     {
+        public string carname { get; set; }
+        public string carmodel { get; set; }
+        public string cartype { get; set; }
     }
 }
